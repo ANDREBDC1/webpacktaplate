@@ -4,3 +4,7 @@
 
 -- comando para instalar css loader
 npm i  style-loader css-loader
+
+
+-- comando roda o projeto com webpack
+ npm run builder
